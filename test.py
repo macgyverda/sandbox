@@ -1,3 +1,4 @@
+% Adding comments
 print('Simple calculation test')
 inputNum = input('Enter Number: ')
 inputOp = input('Enter Operation: ')
